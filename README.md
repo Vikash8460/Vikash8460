@@ -11,7 +11,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash8460&label=Profile%20views&color=0e75b6&style=flat" alt="vikash8460" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@k03223821" target="blank"><img src="https://img.shields.io/twitter/follow/@k03223821?logo=twitter&style=for-the-badge" alt="@k03223821" /></a> </p>
 
 - 🔭 I’m currently working on **Admin Dashboard**
 
