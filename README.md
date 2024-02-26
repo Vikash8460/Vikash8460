@@ -1,6 +1,12 @@
-![logo](https://github.com/Vikash8460/Vikash8460/blob/main/software-picture.png)
-<h1 align="center">Hi 👋, I'm Vikash Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">
+Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Vikash Kumar</a> 👋
+</h3>
+
+<h2 align="center">
+I'm a Java Full-Stack 💻, Photographer 📸, and Designer 🎨!
+</h2> 
+
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 <img align="right" alt="coding" widh="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash8460&label=Profile%20views&color=0e75b6&style=flat" alt="vikash8460" /> </p>
