@@ -13,7 +13,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <p align="left"> <a href="https://twitter.com/@k03223821" target="blank"><img src="https://img.shields.io/twitter/follow/@k03223821?logo=twitter&style=for-the-badge" alt="@k03223821" /></a> </p>
 
-- 🔭 I’m currently working on **Admin Dashboard**
+- 🔭 I’m currently working on **Dashboard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
